@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1f2c9daeaa9ad288",
+        "id": "13c69e0bdd6cb4b0",
         "type": "tabs",
         "children": [
           {
-            "id": "5f1caa623b92343f",
+            "id": "ebfc6542c1f05544",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CHANGELOG.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "CHANGELOG"
+              "title": "New tab"
             }
           }
         ]
@@ -180,8 +176,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f1caa623b92343f",
+  "active": "ebfc6542c1f05544",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Untitled.base",
+    "CHANGELOG.md",
     "$tart.md",
     "GEMINI.md",
     "persona.os.md",
@@ -203,11 +202,9 @@
     "Resources/Languages/Python/Libraries/Pandas/Pandas.md",
     "Resources/Languages/Python/Libraries/Pandas",
     "Resources/Languages/Python/Libraries/NumPy/NumPy.md",
-    "Resources/Languages/Python/Libraries/NumPy",
     "Resources/Concepts/Session Persistence/Session Persistence.md",
     "Resources/Tools/tmux-resurrect/tmux-resurrect.md",
     "Resources/Tools/i3-resurrect/i3-resurrect.md",
-    "CHANGELOG.md",
     "Resources/Tools/tmux/tmux.md",
     "Resources/Tools/Zsh/Zsh.md",
     "README.md",
@@ -216,7 +213,6 @@
     "Resources/Concepts/Containerization/Docker/Benefits and Use Cases/Benefits and Use Cases.md",
     "Resources/Concepts/Containerization/Docker/Advanced Dockerfile Concepts/Advanced Dockerfile Concepts.md",
     "Resources/Languages/JavaScript/Concepts/DOM Manipulation.md",
-    "Resources/Languages/JavaScript/Concepts/Asynchronicity.md",
-    "Resources/Languages/CSharp/Concepts/LINQ.md"
+    "Resources/Languages/JavaScript/Concepts/Asynchronicity.md"
   ]
 }
