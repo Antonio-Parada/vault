@@ -2,6 +2,7 @@
 
 This document records significant modifications made to this Personal Knowledge Vault by the LLM agent.
 
+*   **2025-10-25:** Created `Resources/Tools/Warp/Warp.md` to document troubleshooting for the Warp terminal on Linux, detailing the hardware incompatibility on Arch Linux and the working solution on Debian-based systems.
 *   **2025-10-22:** Created notes for cybersecurity tools: Metasploit, Nmap, and Scapy.
 *   **2025-10-22:** Created notes for Node.js and Express.js in `Resources/Languages/JavaScript`.
 *   **2025-10-22:** Created notes for Python data analysis libraries: NumPy, Pandas, and Matplotlib.

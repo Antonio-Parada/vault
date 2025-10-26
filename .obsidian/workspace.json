@@ -11,10 +11,14 @@
             "id": "ebfc6542c1f05544",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CHANGELOG.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "CHANGELOG"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "changelog",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -176,13 +181,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ebfc6542c1f05544",
+  "active": "26d83c8ce64071ae",
   "lastOpenFiles": [
+    "$tart.md",
+    "CHANGELOG.md",
+    "GEMINI.md",
+    "Vault Index.md",
     "Untitled.canvas",
     "Untitled.base",
-    "CHANGELOG.md",
-    "$tart.md",
-    "GEMINI.md",
     "persona.os.md",
     "Resources/Tools/Tools Overview.md",
     "Resources/Tools/Scapy/Scapy.md",
@@ -209,7 +215,6 @@
     "Resources/Tools/Zsh/Zsh.md",
     "README.md",
     "Archive/Archive.md",
-    "Vault Index.md",
     "Resources/Concepts/Containerization/Docker/Benefits and Use Cases/Benefits and Use Cases.md",
     "Resources/Concepts/Containerization/Docker/Advanced Dockerfile Concepts/Advanced Dockerfile Concepts.md",
     "Resources/Languages/JavaScript/Concepts/DOM Manipulation.md",

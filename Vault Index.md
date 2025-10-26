@@ -126,6 +126,7 @@ This index provides an overview of the notes within this Personal Knowledge Vaul
 *   [[Resources/Tools/Nmap/Nmap]]
 *   [[Resources/Tools/Scapy/Scapy]]
 *   [[Resources/Tools/Tools Overview]]
+*   [[Resources/Tools/Warp/Warp]]
 *   [[Resources/Tools/Zsh/Zsh]]
 *   [[Resources/Tools/i3-resurrect/i3-resurrect]]
 *   [[Resources/Tools/tmux-resurrect/tmux-resurrect]]
