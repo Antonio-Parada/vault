@@ -30,4 +30,4 @@ When adding documentation for a new operating system:
 
 ## Examples of Operating Systems Documented Here
 
-*   [[Kali/Kali]]
+*   [[Kali]]

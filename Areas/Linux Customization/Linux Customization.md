@@ -78,5 +78,5 @@ Linux customization reflects a clear investment in crafting a highly personalize
 
 ## Further Reading
 
-*   [[Kali/Kali]]
+*   [[Kali]]
 *   [[Linux Customization]] (This note itself)

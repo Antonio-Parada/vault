@@ -108,7 +108,7 @@ This index provides an overview of the notes within this Personal Knowledge Vaul
 
 ### OS
 
-*   [[Resources/OS/Kali/Kali]]
+*   [[Kali]]
 *   [[Resources/OS/OS Overview]]
 
 ### Software Configuration

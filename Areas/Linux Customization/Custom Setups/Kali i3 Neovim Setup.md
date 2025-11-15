@@ -4,7 +4,7 @@ This note details an integrated Linux customization setup combining Kali Linux a
 
 ## Components
 
-*   **Operating System:** [[Kali/Kali]] Linux
+*   **Operating System:** [[Kali]] Linux
     *   Chosen for its comprehensive suite of penetration testing and security auditing tools.
 *   **Window Manager:** [[Linux Customization/i3/i3]]
     *   Provides a lightweight, keyboard-centric tiling window management experience, maximizing screen real estate and minimizing mouse usage.
@@ -34,7 +34,7 @@ This setup emphasizes a keyboard-driven workflow, rapid task switching, and effi
 ## Further Reading
 
 *   [[Linux Customization]]
-*   [[Kali/Kali]]
+*   [[Kali]]
 *   [[Linux Customization/i3/i3]]
 *   [[Linux Customization/Neovim/Neovim]]
 *   [[Linux Customization/Neovim/Lua Configuration]]
